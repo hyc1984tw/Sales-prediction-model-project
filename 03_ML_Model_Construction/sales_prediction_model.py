@@ -39,6 +39,7 @@ print("ACCURACY OF THE MODEL: ", metrics.accuracy_score(val_y, rf_y_pred))
 print(val_y)
 print(rf_y_pred)
 
+# Check model efficiency
 
 from sklearn.metrics import confusion_matrix
 
