@@ -2,14 +2,14 @@
 
 We will collect the following data into the ML model:
 
-1. **Decathlon Sales Record**
+* **Decathlon Sales Record**
 
 We make a query to obtain the restail sales data using sql. The sales data of basketball sports at Taichung stores are obtained.
 
-1. **Historical Weather Information**
+* **Historical Weather Information**
 
 
-1. **Historical Google Trend Search Index**
+* **Historical Google Trend Search Index**
 
 Google Trend Website Click Here
 [Here](https://trends.google.com/)
@@ -26,6 +26,6 @@ We used google trend website and input the following parameters to get the googl
 
 After specifying the parameters, we can download the googld trend data result in csv file format. We then upload the csv files into GCP．
 
-1. **Public Bank Day and Weekend Information in the past**
+* **Public Bank Day and Weekend Information in the past**
 
 
