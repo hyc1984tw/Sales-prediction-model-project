@@ -1,11 +1,15 @@
 # 1- Data Collection
 
 We will collect the following data into the ML model:
-1. Decathlon Sales Record
-We make a query to obtain the restail sales data. The sales data of basketball sports at Taichung stores are obtained.
 
-1. Historical Weather Information
-1. Historical Google Trend Search Index
+1. **Decathlon Sales Record
+
+We make a query to obtain the restail sales data using sql. The sales data of basketball sports at Taichung stores are obtained.
+
+1. **Historical Weather Information
+
+
+1. **Historical Google Trend Search Index
 
 Google Trend Website Click Here
 [Here](https://trends.google.com/)
@@ -20,6 +24,8 @@ We used google trend website and input the following parameters to get the googl
 * Location: Taiwan > Taichung City
 * Time Window: In the past five years
 
-After specifying the parameters, we can download the googld trend data result in csv file format.
+After specifying the parameters, we can download the googld trend data result in csv file format. We then upload the csv files into GCP．
 
-1. Public Bank Day and Weekend Information in the past
+1. **Public Bank Day and Weekend Information in the past
+
+
