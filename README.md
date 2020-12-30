@@ -2,8 +2,6 @@
 
 ## 1. Data Collection
 
-## 2. Data Preprocessing
+## 2. Data Preprocessing & Data Transformation
 
-## 3. Data Transformation
-
-## 4. Construction of ML Model
+## 3. Construction of ML Model
